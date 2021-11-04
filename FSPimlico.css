@@ -2,20 +2,20 @@
 @font-face {
     font-family:"FSPimlico";
     font-style:normal;font-weight:400;
-    src: url("https://github.com/manyanic/loteries-fonts/blob/main/FSPimlico-Regular.woff") format("woff");
+    src: url("https://raw.githubusercontent.com/manyanic/loteries-fonts/main/FSPimlico-Regular.woff") format("woff");
     font-style:normal;font-weight:400;
 }
 
 @font-face {
     font-family:"FSPimlico";
-    src:url("https://github.com/manyanic/loteries-fonts/blob/main/FSPimlico-Italic.woff") format("woff");
+    src:url("https://raw.githubusercontent.com/manyanic/loteries-fonts/main/FSPimlico-Italic.woff") format("woff");
     font-style:italic;
     font-weight:400;
 }
 
 @font-face {
     font-family:"FSPimlico";
-    src:url("https://github.com/manyanic/loteries-fonts/blob/main/FSPimlico-Bold.woff") format("woff");
+    src:url("https://raw.githubusercontent.com/manyanic/loteries-fonts/main/FSPimlico-Bold.woff") format("woff");
     font-style: normal;
     font-weight:bold;
 }
