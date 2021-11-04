@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family:"FSPimlico";
+    font-style:normal;font-weight:400;
+    src:url("FSPimlico-Regular.woff2") format("woff2"),url("FSPimlico-Regular.woff") format("woff"),url("FSPimlico-Regular.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"FSPimlico";
+    src:url("FSPimlico-Italic.woff2") format("woff2"),url("FSPimlico-Italic.woff") format("woff"),url("FSPimlico-Italic.otf") format("opentype");
+    font-style:italic;
+    font-weight:400;
+}
+
+@font-face {
+    font-family:"FSPimlico";
+    src:url("FSPimlico-Bold.woff2") format("woff2"),url("FSPimlico-Bold.woff") format("woff"),url("FSPimlico-Bold.otf") format("opentype");
+    font-style:italic;
+    font-weight:bold;
+}
